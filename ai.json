@@ -12,7 +12,7 @@
         "qcsVersion": "1.8"
     },
     {
-        "description": "CAFFE (Convolutional Architecture for Fast Feature Embedding) is a deep learning framework. This is official CAFFE image (GPU version).", 
+        "description": "CAFFE (Convolutional Architecture for Fast Feature Embedding) is a deep learning framework. This is official CAFFE image.", 
         "repository": "dockerhub", 
         "arch": "amd64", 
         "icon": "http://download.qnap.com/QPKG/images/QPKG/container/ai_default.png",
@@ -24,7 +24,7 @@
         "qcsVersion": "1.8"
     },
     {
-        "description": "CAFFE (Convolutional Architecture for Fast Feature Embedding) is a deep learning framework. This is official CAFFE image (CPU version)", 
+        "description": "CAFFE (Convolutional Architecture for Fast Feature Embedding) is a deep learning framework. This is official CAFFE image.", 
         "repository": "dockerhub", 
         "arch": "amd64", 
         "icon": "http://download.qnap.com/QPKG/images/QPKG/container/ai_default.png",
@@ -60,7 +60,7 @@
         "qcsVersion": "1.8"
     },
     {
-        "description": "MXNet is a deep learning framework used to train and deploy deep neural networks. This is MXNet with the Python package (GPU version)", 
+        "description": "MXNet is a deep learning framework used to train and deploy deep neural networks. This is MXNet with the Python package.",
         "repository": "dockerhub", 
         "arch": "amd64", 
         "icon": "http://download.qnap.com/QPKG/images/QPKG/container/ai_mxnet.png",
@@ -72,7 +72,7 @@
         "qcsVersion": "1.8"
     },
     {
-        "description": "MXNet is a deep learning framework used to train and deploy deep neural networks. This is MXNet with the Python package (CPU version)", 
+        "description": "MXNet is a deep learning framework used to train and deploy deep neural networks. This is MXNet with the Python package.", 
         "repository": "dockerhub", 
         "arch": "amd64", 
         "icon": "http://download.qnap.com/QPKG/images/QPKG/container/ai_mxnet.png",
@@ -84,7 +84,7 @@
         "qcsVersion": "1.8"
     },
     {
-        "description": "TensorFlow is an open-source software library for Machine Intelligence. This is official docker image for deep learning framework TensorFlow (GPU version)", 
+        "description": "TensorFlow is an open-source software library for Machine Intelligence. This is official docker image for deep learning framework TensorFlow.", 
         "repository": "dockerhub", 
         "arch": "amd64", 
         "icon": "http://download.qnap.com/QPKG/images/QPKG/container/ai_tensorflow.png",
@@ -96,7 +96,7 @@
         "qcsVersion": "1.8"
     },
     {
-        "description": "TensorFlow is an open-source software library for Machine Intelligence. This is official docker image for deep learning framework TensorFlow (CPU version)", 
+        "description": "TensorFlow is an open-source software library for Machine Intelligence. This is official docker image for deep learning framework TensorFlow.", 
         "repository": "dockerhub", 
         "arch": "amd64", 
         "icon": "http://download.qnap.com/QPKG/images/QPKG/container/ai_tensorflow.png",
